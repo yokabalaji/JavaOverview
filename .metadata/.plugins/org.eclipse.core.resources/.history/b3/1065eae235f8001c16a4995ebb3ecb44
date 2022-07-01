@@ -1,0 +1,9 @@
+package Errorss;
+
+public class ExampleStringOutOfBound {
+	public static void main(String[] args) {
+		String b="onesoft";
+		System.out.println(b.charAt(8));
+	}
+
+}

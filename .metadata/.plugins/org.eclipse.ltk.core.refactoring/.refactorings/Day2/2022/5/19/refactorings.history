@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;BeanCls.BeanClass&apos; to &apos;AirConditioner&apos;&#x0D;&#x0A;- Original project: &apos;Day2&apos;&#x0D;&#x0A;- Original element: &apos;BeanCls.BeanClass&apos;&#x0D;&#x0A;- Renamed element: &apos;BeanCls.AirConditioner&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BeanClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;BeanCls{BeanClass.java[BeanClass" matchStrategy="1" name="AirConditioner" qualified="false" references="true" similarDeclarations="false" stamp="1651680580796" textual="false" version="1.0"/>
+</session>

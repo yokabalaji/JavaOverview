@@ -1,0 +1,8 @@
+package day4;
+
+public class Day4Test {
+	String brand;
+	int price;
+	boolean isElectric;
+
+}

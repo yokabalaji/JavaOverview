@@ -1,0 +1,13 @@
+package Lms;
+
+public class UpperCaseOnly {
+	public static void main(String[] args) {
+		String a=args[0];
+		String b[]=a.split(",");
+		for(int i=0;i<b.length;i++) {
+			if(b[i]==b[i].toUpperCase()));
+			System.out.println(b[i]);
+		}
+	}
+
+}

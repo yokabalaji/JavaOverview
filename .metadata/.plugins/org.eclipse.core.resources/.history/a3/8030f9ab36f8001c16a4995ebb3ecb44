@@ -1,0 +1,14 @@
+package Errorss;
+
+public class ExampleStackOverFlow {
+	public static void main(String[] args) {
+		public void a() {
+			System.out.println(b());
+			
+		}
+		public void b() {
+			a();
+		}
+	}
+
+}

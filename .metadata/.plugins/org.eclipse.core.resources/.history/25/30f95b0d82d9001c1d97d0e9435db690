@@ -1,0 +1,16 @@
+package Lms;
+
+public class OddIndexOfWord {
+	public static void main(String[] args) {
+	String a="DRACARYS";
+	char []b=a.toCharArray();
+	int c=0;
+	for(int i=0;i<b.length;i++) {
+		if(i%2!=0) {
+			c=a.charAt(b[i]);
+			System.out.println(c);
+			
+			
+		}
+	}
+}}

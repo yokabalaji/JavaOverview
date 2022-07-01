@@ -1,0 +1,13 @@
+package day4;
+
+public class IfStre {
+public static void main(String[] args) {
+	String a="onesofts";
+	if(a.endsWith("f")) {
+		System.out.println(a.substring(1,a.length()-1));
+	}
+else {
+	System.out.println(a.charAt(a.length()-2));
+}
+}
+}

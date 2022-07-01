@@ -1,0 +1,25 @@
+package objectforloop;
+
+public class UseEmp {
+	public static void main(String[] args) {
+		Emp a=new Emp();
+		a.name="balaji";
+		a.salary=40000;
+		a.id=591;
+		Emp b=new Emp();
+		b.name="yoga";
+		b.salary=50000;
+		b.id=592;
+		Emp []c= {a,b};
+		int tot=0;
+		int count=0;
+		for(int i=0;i<c.length;i++) {
+			tot=tot+c[i].salary;
+			count=count+1;
+			System.out.println(c[i].name+" "+c[i].salary+" "+c[i].id);
+		}
+		System.out.println(tot/count);
+		
+	}
+
+}

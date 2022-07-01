@@ -1,0 +1,17 @@
+package Errorss;
+
+public class ExapleNumberFoundException {
+	public static void main(String[] args) {
+		String a="hi";
+		int b=Integer.parseInt(a);
+		try {
+		System.out.println(b);
+		}catch(NumberFormatException np) {
+		System.out.println("dont use");
+		
+		}
+		System.out.println(b);
+		System.out.println("hello");
+	}
+
+}

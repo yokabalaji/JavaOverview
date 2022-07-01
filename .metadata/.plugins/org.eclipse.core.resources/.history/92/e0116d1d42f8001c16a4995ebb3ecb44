@@ -1,0 +1,9 @@
+package Errorss;
+
+public class VowelNotFoundException {
+	public static void main(String[] args) {
+		String a="onesoft";
+		System.out.println(a.charAt(0));
+	}
+
+}

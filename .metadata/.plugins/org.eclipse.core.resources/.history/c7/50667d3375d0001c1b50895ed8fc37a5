@@ -1,0 +1,12 @@
+package day4;
+
+public class UseDay4Test {
+	public static void main(String[] args) {
+		String []a=args[0].split(",");
+		String []b=args[1].split(",");
+		Day4Test a=new Day4Test();
+		
+		
+	}
+
+}

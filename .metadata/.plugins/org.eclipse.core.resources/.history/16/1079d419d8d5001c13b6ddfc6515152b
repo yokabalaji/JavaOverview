@@ -1,0 +1,9 @@
+package objectforloop;
+
+public class Person {
+	String name;
+	int salary;
+	float height;
+	
+
+}

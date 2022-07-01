@@ -1,0 +1,9 @@
+package objectforloop;
+
+public class UsingLms {
+	String name;
+	int salary;
+	float height;
+	
+
+}

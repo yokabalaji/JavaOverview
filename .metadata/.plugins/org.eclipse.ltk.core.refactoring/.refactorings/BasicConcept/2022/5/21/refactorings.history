@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Basics.FTEST&apos; to &apos;Fsdsds&apos;&#x0D;&#x0A;- Original project: &apos;BasicConcept&apos;&#x0D;&#x0A;- Original element: &apos;Basics.FTEST&apos;&#x0D;&#x0A;- Renamed element: &apos;Basics.Fsdsds&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FTEST&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Basics{FTEST.java[FTEST" matchStrategy="1" name="Fsdsds" qualified="false" references="true" similarDeclarations="false" stamp="1652722484156" textual="false" version="1.0"/>
+</session>
